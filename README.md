@@ -8,6 +8,11 @@
 
 [Search publications](https://www.brookings.edu/search/)
 
+### Council on Foreign Relations (CFR)
+*Foreign policy*
+
+[Publications](https://www.cfr.org/publications)
+
 ## NGO
 ### Global Initiative Against Transnational Organized Crime
 *Human rights, Democracy, Governance*
