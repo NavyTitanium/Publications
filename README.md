@@ -13,6 +13,11 @@
 
 [Publications](https://www.cfr.org/publications)
 
+### Centre for International Governance Innovation (CIGI)
+*Analysis on technology and international governance*
+
+[Publications](https://www.cigionline.org/publications)
+
 ## NGO
 ### Global Initiative Against Transnational Organized Crime
 *Human rights, Democracy, Governance*
