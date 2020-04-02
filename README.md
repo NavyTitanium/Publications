@@ -5,7 +5,6 @@
 *Economic Studies, Governance studies, Foreign policy, Global economy and development*
 
 [Main page](https://www.brookings.edu/)
-
 [Search publications](https://www.brookings.edu/search/)
 
 ## NGO
@@ -16,6 +15,7 @@
 
 ## KnE Publishing
 *regional academic journal articles and conference papers*
+
 [Main page](https://knepublishing.com/)
 
 ## The RERO DOC project
@@ -31,6 +31,7 @@
 
 ## Asia-Pacific Economic Cooperation
 *Economic development*
+
 [Publications](https://www.apec.org/Publications)
 
 ## Colleges, Universities
