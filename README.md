@@ -19,6 +19,11 @@
 
 [Main page](https://knepublishing.com/)
 
+### The Center for European Policy Analysis (CEPA)
+*Public policy research institute on Energy, Security and defense to government*
+
+[Main page](https://www.cepa.org/)
+
 ### The RERO DOC project
 *Electronic theses, Dissertations and e-prints*
 
