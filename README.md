@@ -29,7 +29,7 @@
 
 [Search publications](https://doc.rero.ch/search?)
 
-###  Federation of American Scientists (FAS) 
+### Federation of American Scientists (FAS) 
 *Science, Engineering, Political science, Law & and policy*
 
 [Publications](https://fas.org/publications/)
@@ -40,13 +40,13 @@
 
 [Publications](https://www.worldbank.org/en/research)
 
-### Asia-Pacific Economic Cooperation
+### Asia-Pacific Economic Cooperation (APEC)
 *Economic development*
 
 [Publications](https://www.apec.org/Publications)
 
 ## Colleges, Universities
-### ERIC
+### Education Resources Information Center (ERIC)
 *Free digital library of education research*
 
 [Main page](https://eric.ed.gov/)
