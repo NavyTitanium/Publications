@@ -50,12 +50,22 @@
 
 [Publications](https://www.worldbank.org/en/research)
 
+### World Health Organization (WHO)
+*International Health*
+
+[Publications](https://www.who.int/publications/en/)
+
+### United Nations (UN)
+*International peace and security*
+
+[Publications](https://digitallibrary.un.org/search?ln=en&cc=Documents+and+Publications&p=&f=&action_search=Search&c=Publications)
+
 ### Asia-Pacific Economic Cooperation (APEC)
 *Economic development*
 
 [Publications](https://www.apec.org/Publications)
 
-## Colleges, Universities
+## Colleges, Universities, Library
 ### Stanford University
 *Standford University library*
 
@@ -70,3 +80,8 @@
 *Strategic level political-military*
 
 [Main page](https://publications.armywarcollege.edu/)
+
+### The Library of Congress
+*United Nations Educational, Cultural and Scientific Organization (UNESCO) material*
+
+[Search publications](https://www.wdl.org/en/search/?)
