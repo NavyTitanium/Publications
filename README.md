@@ -50,6 +50,11 @@
 [Publications](https://fas.org/publications/)
 
 ## International organization
+### International Monetary Fund (IMF)
+*Economy*
+
+[Search publications](https://www.elibrary.imf.org/)
+
 ### World Bank
 *Economic development*
 
