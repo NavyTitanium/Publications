@@ -56,6 +56,11 @@
 [Publications](https://www.apec.org/Publications)
 
 ## Colleges, Universities
+### Stanford University
+*Standford University library*
+
+[Search publications](https://searchworks.stanford.edu/)
+
 ### Education Resources Information Center (ERIC)
 *Free digital library of education research*
 
