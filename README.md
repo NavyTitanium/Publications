@@ -13,6 +13,11 @@
 
 [Publications](https://www.cfr.org/publications)
 
+### International Institute for Strategic Studies (IISS)
+*Security and foreign-policy*
+
+[Research paper](https://www.iiss.org/blogs/research-paper)
+
 ### Centre for International Governance Innovation (CIGI)
 *Analysis on technology and international governance*
 
