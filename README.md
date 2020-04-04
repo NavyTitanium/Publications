@@ -18,6 +18,16 @@
 
 [Research paper](https://www.iiss.org/blogs/research-paper)
 
+### Carnegie Endowment for International Peace (CEIP)
+*International peace, Disorder, Governance, Geoeconomics and strategy, Technology and international affairs*
+
+[Publications](https://carnegieendowment.org/publications/)
+
+### Chatham House
+*Energy, Environment and resources, Global economy and finance, Health security, International law & security*
+
+[Publications](https://www.chathamhouse.org/research/publications)
+
 ### Centre for International Governance Innovation (CIGI)
 *Analysis on technology and international governance*
 
