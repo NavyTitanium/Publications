@@ -55,6 +55,11 @@
 
 [Search publications](https://www.itu-ilibrary.org/)
 
+### World Trade Organization (WTO)
+*Trade-related issues*
+
+[Publications](https://www.wto.org/english/res_e/publications_e/publications_e.htm)
+
 ### International Monetary Fund (IMF)
 *Economy*
 
@@ -63,7 +68,7 @@
 ### Organisation for Economic Co-operation and Development (OECD)
 *Trade, Environment, Education, Agriculture, Technology, Taxation*
 
-[Search publications](https://www.oecd-ilibrary.org/
+[Search publications](https://www.oecd-ilibrary.org/)
 
 ### World Bank
 *Economic development*
