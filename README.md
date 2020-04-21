@@ -36,6 +36,11 @@
 
 [Publications](https://www.cigionline.org/publications)
 
+### International Crisis Group
+*Analysis and advice on how to prevent, resolve or better manage deadly conflict*
+
+[Publications](https://www.crisisgroup.org/latest-updates/)
+
 ## NGO
 ### Global Initiative Against Transnational Organized Crime
 *Human rights, Democracy, Governance*
