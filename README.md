@@ -21,6 +21,11 @@
 
 [Research paper](https://www.iiss.org/blogs/research-paper)
 
+### Alliance for Securing Democracy (ASD)
+*Disinformation, malign finance, emerging technologies, elections integrity, economic coercion*
+
+[Research paper](https://securingdemocracy.gmfus.org/category/policy-paper)
+
 ### Carnegie Endowment for International Peace (CEIP)
 *International peace, Disorder, Governance, Geoeconomics and strategy, Technology and international affairs*
 
