@@ -1,6 +1,4 @@
-# Cybersecurity related
 
-https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GCI.01-2018-PDF-E.pdf
 
 # Free research papers and publications
 
@@ -142,3 +140,15 @@ https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GCI.01-2018-PDF-E.pdf
 *United Nations Educational, Cultural and Scientific Organization (UNESCO) material*
 
 [Search publications](https://www.wdl.org/en/search/?)
+
+# Podcasts
+
+[INTREPID](https://www.intrepidpodcast.com/podcast)
+
+[Deep State Radio](https://www.stitcher.com/show/deep-state-radio)
+
+[War on the Rocks](https://warontherocks.com/category/podcasts/war-on-the-rocks/)
+
+[Darknet Diaries](https://darknetdiaries.com/episode/)
+
+[I Spy](https://foreignpolicy.com/podcasts/ispy/)
