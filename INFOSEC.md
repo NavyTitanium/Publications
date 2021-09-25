@@ -1,16 +1,22 @@
 
-https://thedfirreport.com
+## Independent
 
-https://www.reddit.com/r/netsec
+* https://thedfirreport.com
 
-https://krebsonsecurity.com/
+* https://krebsonsecurity.com/
 
-https://news.ycombinator.com/
 
-https://www.theregister.com/security/
+## News aggregator
+
+* https://news.ycombinator.com/
+
+* https://www.reddit.com/r/netsec
 
 ## News website
-https://www.hackread.com/
+
+* https://www.hackread.com/
+* 
+* https://www.theregister.com/security/
 
 ## Antivirus companies
 
