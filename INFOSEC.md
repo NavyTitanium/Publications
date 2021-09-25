@@ -11,3 +11,11 @@ https://www.theregister.com/security/
 
 ## News website
 https://www.hackread.com/
+
+## Antivirus companies
+
+https://www.welivesecurity.com/
+
+https://securelist.com/
+
+https://blog.malwarebytes.com/
