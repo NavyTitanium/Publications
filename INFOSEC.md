@@ -20,6 +20,8 @@
 
 * https://therecord.media/
 
+* https://www.bleepingcomputer.com/
+
 ## Antivirus companies
 
 * https://www.welivesecurity.com/
