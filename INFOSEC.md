@@ -15,13 +15,17 @@
 ## News website
 
 * https://www.hackread.com/
-* 
+
 * https://www.theregister.com/security/
+
+* https://therecord.media/
 
 ## Antivirus companies
 
-https://www.welivesecurity.com/
+* https://www.welivesecurity.com/
 
-https://securelist.com/
+* https://securelist.com/
 
-https://blog.malwarebytes.com/
+* https://blog.malwarebytes.com/
+
+* https://www.fireeye.com/blog/threat-research.html
