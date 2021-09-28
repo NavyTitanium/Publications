@@ -9,7 +9,7 @@
 [Search publications](https://www.brookings.edu/search/)
 
 ### Center for Strategic & International Studies (CSIS)
-*national security*
+*National security*
 
 [csis.org](https://www.csis.org/)
 
