@@ -157,3 +157,5 @@
 [Darknet Diaries](https://darknetdiaries.com/episode/)
 
 [I Spy](https://foreignpolicy.com/podcasts/ispy/)
+
+[Malicious Life](https://malicious.life/episode/)
